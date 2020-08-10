@@ -16,6 +16,7 @@
 body {
     text-align: center;
     color: #40514e;
+    
 }
 
 /* ****************************************Top container************************************************** */
@@ -312,8 +313,8 @@ hr {
 
     h4 {
         font-family: 'Sacramento', sans-serif;
-        font-size: 3rem;
-        padding: 3% 1%;
+        font-size: 2.5rem;
+        padding: 0 ;
     }
 
     h5 {
@@ -324,6 +325,14 @@ hr {
 
 
     /* ***************************First Project************************ */
+    #first-project{
+        padding-top: 10px;
+    }
+
+    #first-project h4{
+        width: 100%;
+        text-align: center;
+    }
 
     #first-project .row {
         width: 90%;
@@ -338,6 +347,11 @@ hr {
 
 
     /* ***************************************Second Project**************************** */
+    #second-project h4{
+        width: 100%;
+        text-align: center;
+    }
+
     #second-project .row {
         width: 100%;
         text-align: center;
@@ -354,6 +368,11 @@ hr {
 
 
     /* *************************************Third Project************************************ */
+    #third-project h4{
+        width: 100%;
+        text-align: center;
+    }
+
     #third-project .row {
         width: 100%;
         text-align: center;
@@ -367,6 +386,11 @@ hr {
 
 
     /* *********************************************Fourth Project************************************ */
+    #fourth-project h4{
+        width: 100%;
+        text-align: center;
+    }
+
     #fourth-project .row {
         width: 100%;
         text-align: center;
@@ -379,6 +403,11 @@ hr {
     }
 
     /* **********************************************Fifth Project*************************** */
+    #fifth-project h4{
+        width: 100%;
+        text-align: center;
+    }
+
     #fifth-project .row {
         width: 100%;
         text-align: center;
@@ -391,7 +420,11 @@ hr {
     }
 
     /* ************************************************Last Project*************************************************** */
-
+    
+    #last-project h4{
+        width: 100%;
+        text-align: center;
+    }
 
     #last-project .row {
         width: 100%;
